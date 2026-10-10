@@ -3,11 +3,13 @@ on:
   push:
     paths:
       - 'data/dividend_master.json'
+      - 'data/approvals.json'
       - 'scripts/validate-feed.mjs'
       - '.github/workflows/validate.yml'
   pull_request:
     paths:
       - 'data/dividend_master.json'
+      - 'data/approvals.json'
       - 'scripts/validate-feed.mjs'
 jobs:
   validate:
