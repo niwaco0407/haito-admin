@@ -1,5 +1,11 @@
 {
   "schemaVersion": 1,
   "publishedAt": "2026-10-10",
-  "records": []
+  "records": [
+    {
+      "ticker": "9861",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "2"
+    }
+  ]
 }
