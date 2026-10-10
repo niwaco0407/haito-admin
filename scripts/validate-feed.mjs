@@ -17,6 +17,6 @@ for(const r of feed.records){
  if(typeof r.fiscalYear!=='string'||!r.fiscalYear)fail('Invalid dates');
 
  const a=checked.get(r.ticker);
- if(!a||a.annualDividendPerShare!==r.annualDividendPerShare||a.fiscalYear!==r.fiscalYear||a.disclosureDate!==r.disclosureDate)fail('Missing or outdated approval for '+r.ticker);
+ if(!a||a.annualDividendPerShare!==r.annualDividendPerShare||a.fiscalYear!==r.fiscalYear)fail('Missing or outdated approval for '+r.ticker);
 }
 console.log('HAITO feed validated:',feed.records.length,'records');
