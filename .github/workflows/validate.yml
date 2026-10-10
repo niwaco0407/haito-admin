@@ -1,0 +1,22 @@
+name: Validate dividend feed
+on:
+  push:
+    paths:
+      - 'data/dividend_master.json'
+      - 'scripts/validate-feed.mjs'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'data/dividend_master.json'
+      - 'scripts/validate-feed.mjs'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/validate-feed.mjs
