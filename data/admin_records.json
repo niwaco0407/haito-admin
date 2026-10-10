@@ -1,3 +1,11 @@
 {
-  "records": []
+  "records": [
+    {
+      "ticker": "9861",
+      "name": "吉野家HD",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "2",
+      "status": "approved"
+    }
+  ]
 }
