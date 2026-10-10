@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "ticker": "9861",
+    "annualDividendPerShare": 24,
+    "fiscalYear": "2",
+    "reviewedAt": "2026-10-10",
+    "status": "approved"
+  }
+]
