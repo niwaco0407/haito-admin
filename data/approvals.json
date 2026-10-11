@@ -1762,5 +1762,705 @@
     "fiscalYear": "2026年10月期",
     "reviewedAt": "2026-10-11",
     "status": "approved"
+  },
+  {
+    "ticker": "1382",
+    "annualDividendPerShare": 50,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "1815",
+    "annualDividendPerShare": 115,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "1826",
+    "annualDividendPerShare": 60,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "1847",
+    "annualDividendPerShare": 180,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "1852",
+    "annualDividendPerShare": 45,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "1882",
+    "annualDividendPerShare": 90,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2146",
+    "annualDividendPerShare": 10.23,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2153",
+    "annualDividendPerShare": 82,
+    "fiscalYear": "2027年5月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2173",
+    "annualDividendPerShare": 27,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2286",
+    "annualDividendPerShare": 45,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2329",
+    "annualDividendPerShare": 27.06,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2379",
+    "annualDividendPerShare": 97,
+    "fiscalYear": "2027年2月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2410",
+    "annualDividendPerShare": 160,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2411",
+    "annualDividendPerShare": 25,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2429",
+    "annualDividendPerShare": 136.3,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2461",
+    "annualDividendPerShare": 21,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2497",
+    "annualDividendPerShare": 22,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3004",
+    "annualDividendPerShare": 110,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3076",
+    "annualDividendPerShare": 140,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3245",
+    "annualDividendPerShare": 64,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3261",
+    "annualDividendPerShare": 15,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3299",
+    "annualDividendPerShare": 104,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3300",
+    "annualDividendPerShare": 112,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3416",
+    "annualDividendPerShare": 45,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3452",
+    "annualDividendPerShare": 80,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3477",
+    "annualDividendPerShare": 32.5,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3632",
+    "annualDividendPerShare": 22,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3659",
+    "annualDividendPerShare": 475,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3695",
+    "annualDividendPerShare": 64.21,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3918",
+    "annualDividendPerShare": 58,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3947",
+    "annualDividendPerShare": 90,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3964",
+    "annualDividendPerShare": 82,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3989",
+    "annualDividendPerShare": 55,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4023",
+    "annualDividendPerShare": 216,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4076",
+    "annualDividendPerShare": 70,
+    "fiscalYear": "2027年5月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4114",
+    "annualDividendPerShare": 140,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4221",
+    "annualDividendPerShare": 240,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4262",
+    "annualDividendPerShare": 64,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4308",
+    "annualDividendPerShare": 14,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4447",
+    "annualDividendPerShare": 22.5,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4496",
+    "annualDividendPerShare": 42,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4577",
+    "annualDividendPerShare": 45,
+    "fiscalYear": "2027年5月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4725",
+    "annualDividendPerShare": 100,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4746",
+    "annualDividendPerShare": 119.12,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4767",
+    "annualDividendPerShare": 20.7,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4849",
+    "annualDividendPerShare": 68.3,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5185",
+    "annualDividendPerShare": 100,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5423",
+    "annualDividendPerShare": 40,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5461",
+    "annualDividendPerShare": 113,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5527",
+    "annualDividendPerShare": 25,
+    "fiscalYear": "2026年11月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5541",
+    "annualDividendPerShare": 130,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5742",
+    "annualDividendPerShare": 41,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5834",
+    "annualDividendPerShare": 115,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5869",
+    "annualDividendPerShare": 65,
+    "fiscalYear": "2027年5月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5870",
+    "annualDividendPerShare": 30,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "5988",
+    "annualDividendPerShare": 92,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6005",
+    "annualDividendPerShare": 74,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6033",
+    "annualDividendPerShare": 68,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6069",
+    "annualDividendPerShare": 36,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6176",
+    "annualDividendPerShare": 65,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6180",
+    "annualDividendPerShare": 210,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6191",
+    "annualDividendPerShare": 160,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6195",
+    "annualDividendPerShare": 8.4,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6209",
+    "annualDividendPerShare": 210,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6309",
+    "annualDividendPerShare": 76,
+    "fiscalYear": "2026年10月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6390",
+    "annualDividendPerShare": 70,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6554",
+    "annualDividendPerShare": 50,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6561",
+    "annualDividendPerShare": 42,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6785",
+    "annualDividendPerShare": 112,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6798",
+    "annualDividendPerShare": 100,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6929",
+    "annualDividendPerShare": 165,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7039",
+    "annualDividendPerShare": 85,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7050",
+    "annualDividendPerShare": 73,
+    "fiscalYear": "2027年4月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7061",
+    "annualDividendPerShare": 25,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7079",
+    "annualDividendPerShare": 100,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7084",
+    "annualDividendPerShare": 105,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7148",
+    "annualDividendPerShare": 92.7,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7172",
+    "annualDividendPerShare": 108,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7177",
+    "annualDividendPerShare": 57.04,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7228",
+    "annualDividendPerShare": 150,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7361",
+    "annualDividendPerShare": 45,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7374",
+    "annualDividendPerShare": 85,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7378",
+    "annualDividendPerShare": 65,
+    "fiscalYear": "2026年10月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7849",
+    "annualDividendPerShare": 130,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7957",
+    "annualDividendPerShare": 170,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7989",
+    "annualDividendPerShare": 120,
+    "fiscalYear": "2026年12月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8005",
+    "annualDividendPerShare": 102,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8125",
+    "annualDividendPerShare": 100,
+    "fiscalYear": "2027年2月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8185",
+    "annualDividendPerShare": 54,
+    "fiscalYear": "2027年2月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8729",
+    "annualDividendPerShare": 8,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9168",
+    "annualDividendPerShare": 21,
+    "fiscalYear": "2027年2月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9219",
+    "annualDividendPerShare": 53.5,
+    "fiscalYear": "2027年6月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9259",
+    "annualDividendPerShare": 30,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9322",
+    "annualDividendPerShare": 132,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9376",
+    "annualDividendPerShare": 50,
+    "fiscalYear": "2026年9月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9558",
+    "annualDividendPerShare": 101,
+    "fiscalYear": "2026年11月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9625",
+    "annualDividendPerShare": 50,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9743",
+    "annualDividendPerShare": 80,
+    "fiscalYear": "2027年1月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9744",
+    "annualDividendPerShare": 181,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9765",
+    "annualDividendPerShare": 44,
+    "fiscalYear": "2027年5月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
   }
 ]
