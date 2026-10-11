@@ -47,5 +47,103 @@
     "fiscalYear": "2027年3月期",
     "reviewedAt": "2026-10-11",
     "status": "approved"
+  },
+  {
+    "ticker": "9201",
+    "annualDividendPerShare": 96,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8795",
+    "annualDividendPerShare": 164,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8308",
+    "annualDividendPerShare": 37,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "6762",
+    "annualDividendPerShare": 40,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2802",
+    "annualDividendPerShare": 50,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "2922",
+    "annualDividendPerShare": 30,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9044",
+    "annualDividendPerShare": 55,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "9468",
+    "annualDividendPerShare": 30,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "4503",
+    "annualDividendPerShare": 80,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "3774",
+    "annualDividendPerShare": 43,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8050",
+    "annualDividendPerShare": 105,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "8572",
+    "annualDividendPerShare": 22,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7731",
+    "annualDividendPerShare": 20,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
+  },
+  {
+    "ticker": "7433",
+    "annualDividendPerShare": 220,
+    "fiscalYear": "2027年3月期",
+    "reviewedAt": "2026-10-11",
+    "status": "approved"
   }
 ]
