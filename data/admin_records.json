@@ -3163,6 +3163,706 @@
       "annualDividendPerShare": 224,
       "fiscalYear": "2027年3月期",
       "status": "approved"
+    },
+    {
+      "ticker": "8392",
+      "name": "大分銀行",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8361",
+      "name": "大垣共立銀行",
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9065",
+      "name": "山九",
+      "annualDividendPerShare": 52.8,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8130",
+      "name": "サンゲツ",
+      "annualDividendPerShare": 155,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8393",
+      "name": "宮崎銀行",
+      "annualDividendPerShare": 56,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9306",
+      "name": "東陽倉庫",
+      "annualDividendPerShare": 75,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1878",
+      "name": "大東建託",
+      "annualDividendPerShare": 163,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5482",
+      "name": "愛知製鋼",
+      "annualDividendPerShare": 150,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7350",
+      "name": "おきなわフィナンシャルグループ",
+      "annualDividendPerShare": 200,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5406",
+      "name": "神戸製鋼所",
+      "annualDividendPerShare": 80,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9076",
+      "name": "セイノーホールディングス",
+      "annualDividendPerShare": 104,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6995",
+      "name": "東海理化",
+      "annualDividendPerShare": 120,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5384",
+      "name": "フジミインコーポレーテッド",
+      "annualDividendPerShare": 77,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9914",
+      "name": "植松商会",
+      "annualDividendPerShare": 32.5,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7953",
+      "name": "菊水化学工業",
+      "annualDividendPerShare": 17,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6797",
+      "name": "名古屋電機工業",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9357",
+      "name": "名港海運",
+      "annualDividendPerShare": 100,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1777",
+      "name": "川崎設備工業",
+      "annualDividendPerShare": 95,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6846",
+      "name": "中央製作所",
+      "annualDividendPerShare": 55,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7950",
+      "name": "日本デコラックス",
+      "annualDividendPerShare": 370,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4361",
+      "name": "川口化学工業",
+      "annualDividendPerShare": 60,
+      "fiscalYear": "2026年11月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5979",
+      "name": "カネソウ",
+      "annualDividendPerShare": 200,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8071",
+      "name": "東海エレクトロニクス",
+      "annualDividendPerShare": 114,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3670",
+      "name": "協立情報通信",
+      "annualDividendPerShare": 65,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "2902",
+      "name": "太陽化学",
+      "annualDividendPerShare": 101,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3504",
+      "name": "丸八ホールディングス",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7896",
+      "name": "セブン工業",
+      "annualDividendPerShare": 20,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9471",
+      "name": "文溪堂",
+      "annualDividendPerShare": 40.8,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1869",
+      "name": "名工建設",
+      "annualDividendPerShare": 66,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5984",
+      "name": "兼房",
+      "annualDividendPerShare": 23,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7946",
+      "name": "光陽社",
+      "annualDividendPerShare": 11,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3958",
+      "name": "笹徳印刷",
+      "annualDividendPerShare": 20,
+      "fiscalYear": "2027年6月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8891",
+      "name": "AMGホールディングス",
+      "annualDividendPerShare": 80,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5356",
+      "name": "美濃窯業",
+      "annualDividendPerShare": 52,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7875",
+      "name": "竹田iPホールディングス",
+      "annualDividendPerShare": 23.5,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1738",
+      "name": "NITTOH",
+      "annualDividendPerShare": 18,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4247",
+      "name": "ポバール興業",
+      "annualDividendPerShare": 42,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5607",
+      "name": "中央可鍛工業",
+      "annualDividendPerShare": 19,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1892",
+      "name": "徳倉建設",
+      "annualDividendPerShare": 250,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9359",
+      "name": "伊勢湾海運",
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4125",
+      "name": "三和油化工業",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3974",
+      "name": "SCAT",
+      "annualDividendPerShare": 14,
+      "fiscalYear": "2026年10月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6111",
+      "name": "旭精機工業",
+      "annualDividendPerShare": 60,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6142",
+      "name": "富士精工",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年2月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7227",
+      "name": "アスカ",
+      "annualDividendPerShare": 54,
+      "fiscalYear": "2026年11月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5589",
+      "name": "オートサーバー",
+      "annualDividendPerShare": 67,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7975",
+      "name": "リヒトラブ",
+      "annualDividendPerShare": 25,
+      "fiscalYear": "2027年2月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7871",
+      "name": "フクビ化学工業",
+      "annualDividendPerShare": 31,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8145",
+      "name": "中部水産",
+      "annualDividendPerShare": 85,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6655",
+      "name": "東洋電機",
+      "annualDividendPerShare": 20,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8228",
+      "name": "マルイチ産商",
+      "annualDividendPerShare": 28,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8995",
+      "name": "誠建設工業",
+      "annualDividendPerShare": 25,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3442",
+      "name": "MIEコーポレーション",
+      "annualDividendPerShare": 40,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3842",
+      "name": "ネクストジェン",
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9040",
+      "name": "大宝運輸",
+      "annualDividendPerShare": 100,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1419",
+      "name": "タマホーム",
+      "annualDividendPerShare": 130,
+      "fiscalYear": "2027年5月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7414",
+      "name": "小野建",
+      "annualDividendPerShare": 69,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6147",
+      "name": "ヤマザキ",
+      "annualDividendPerShare": 10,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8996",
+      "name": "ハウスフリーダム",
+      "annualDividendPerShare": 55,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9536",
+      "name": "西部ガスホールディングス",
+      "annualDividendPerShare": 70,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9474",
+      "name": "ゼンリン",
+      "annualDividendPerShare": 42,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7417",
+      "name": "南陽",
+      "annualDividendPerShare": 65,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8203",
+      "name": "MrMaxHD",
+      "annualDividendPerShare": 29,
+      "fiscalYear": "2027年2月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3246",
+      "name": "コーセーアールイー",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "2027年1月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3166",
+      "name": "OCHIホールディングス",
+      "annualDividendPerShare": 55,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1966",
+      "name": "高田工業所",
+      "annualDividendPerShare": 70,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8554",
+      "name": "南日本銀行",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9035",
+      "name": "第一交通産業",
+      "annualDividendPerShare": 25,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4250",
+      "name": "フロンティア",
+      "annualDividendPerShare": 18,
+      "fiscalYear": "2026年11月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8399",
+      "name": "琉球銀行",
+      "annualDividendPerShare": 98,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3943",
+      "name": "大石産業",
+      "annualDividendPerShare": 52,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6144",
+      "name": "西部電機",
+      "annualDividendPerShare": 90,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8398",
+      "name": "筑邦銀行",
+      "annualDividendPerShare": 60,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7189",
+      "name": "西日本フィナンシャルホールディングス",
+      "annualDividendPerShare": 140,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6653",
+      "name": "正興電機製作所",
+      "annualDividendPerShare": 60,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3297",
+      "name": "東武住販",
+      "annualDividendPerShare": 43,
+      "fiscalYear": "2027年5月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7441",
+      "name": "Misumi",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9388",
+      "name": "パパネッツ",
+      "annualDividendPerShare": 25,
+      "fiscalYear": "2027年2月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6076",
+      "name": "アメイズ",
+      "annualDividendPerShare": 35,
+      "fiscalYear": "2026年11月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9656",
+      "name": "グリーンランドリゾート",
+      "annualDividendPerShare": 15,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "1848",
+      "name": "富士ピー・エス",
+      "annualDividendPerShare": 25,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8230",
+      "name": "はせがわ",
+      "annualDividendPerShare": 15,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7593",
+      "name": "VTホールディングス",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "5938",
+      "name": "LIXIL",
+      "annualDividendPerShare": 90,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4463",
+      "name": "日華化学",
+      "annualDividendPerShare": 70,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6345",
+      "name": "アイチコーポレーション",
+      "annualDividendPerShare": 65,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7231",
+      "name": "トピー工業",
+      "annualDividendPerShare": 135,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3321",
+      "name": "ミタチ産業",
+      "annualDividendPerShare": 70,
+      "fiscalYear": "2027年5月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6718",
+      "name": "アイホン",
+      "annualDividendPerShare": 130,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6339",
+      "name": "新東工業",
+      "annualDividendPerShare": 48,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7283",
+      "name": "愛三工業",
+      "annualDividendPerShare": 83,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7322",
+      "name": "三十三フィナンシャルグループ",
+      "annualDividendPerShare": 44,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "2169",
+      "name": "CDS",
+      "annualDividendPerShare": 74,
+      "fiscalYear": "2026年12月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9310",
+      "name": "日本トランスシティ",
+      "annualDividendPerShare": 43.5,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3116",
+      "name": "トヨタ紡織",
+      "annualDividendPerShare": 86,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6430",
+      "name": "ダイコク電機",
+      "annualDividendPerShare": 100,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3447",
+      "name": "信和",
+      "annualDividendPerShare": 36,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6676",
+      "name": "バッファロー",
+      "annualDividendPerShare": 60,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8803",
+      "name": "平和不動産",
+      "annualDividendPerShare": 103,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7266",
+      "name": "今仙電機製作所",
+      "annualDividendPerShare": 32,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
     }
   ]
 }
