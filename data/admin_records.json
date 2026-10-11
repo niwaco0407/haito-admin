@@ -48,6 +48,104 @@
       "annualDividendPerShare": 44,
       "fiscalYear": "2027年3月期",
       "status": "approved"
+    },
+    {
+      "ticker": "9201",
+      "name": "日本航空",
+      "annualDividendPerShare": 96,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8795",
+      "name": "T&Dホールディングス",
+      "annualDividendPerShare": 164,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8308",
+      "name": "りそなホールディングス",
+      "annualDividendPerShare": 37,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "6762",
+      "name": "TDK",
+      "annualDividendPerShare": 40,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "2802",
+      "name": "味の素",
+      "annualDividendPerShare": 50,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "2922",
+      "name": "なとり",
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9044",
+      "name": "南海電気鉄道",
+      "annualDividendPerShare": 55,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9468",
+      "name": "KADOKAWA",
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "4503",
+      "name": "アステラス製薬",
+      "annualDividendPerShare": 80,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "3774",
+      "name": "インターネットイニシアティブ",
+      "annualDividendPerShare": 43,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8050",
+      "name": "セイコーグループ",
+      "annualDividendPerShare": 105,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8572",
+      "name": "アコム",
+      "annualDividendPerShare": 22,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7731",
+      "name": "ニコン",
+      "annualDividendPerShare": 20,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7433",
+      "name": "伯東",
+      "annualDividendPerShare": 220,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
     }
   ]
 }
