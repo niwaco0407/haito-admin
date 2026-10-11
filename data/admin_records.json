@@ -6,6 +6,48 @@
       "annualDividendPerShare": 24,
       "fiscalYear": "2027年2月期",
       "status": "approved"
+    },
+    {
+      "ticker": "7203",
+      "name": "トヨタ自動車",
+      "annualDividendPerShare": 100,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9432",
+      "name": "NTT",
+      "annualDividendPerShare": 5.4,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9433",
+      "name": "KDDI",
+      "annualDividendPerShare": 84,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "9434",
+      "name": "ソフトバンク",
+      "annualDividendPerShare": 8.8,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "8306",
+      "name": "三菱UFJフィナンシャル・グループ",
+      "annualDividendPerShare": 96,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
+    },
+    {
+      "ticker": "7167",
+      "name": "めぶきフィナンシャルグループ",
+      "annualDividendPerShare": 44,
+      "fiscalYear": "2027年3月期",
+      "status": "approved"
     }
   ]
 }
