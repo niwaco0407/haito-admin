@@ -11,7 +11,7 @@ for(const a of approvals){
 }
 const seen=new Set();
 for(const r of feed.records){
- if(!/^[0-9]{4}[A-Z]?$/.test(r.ticker)||seen.has(r.ticker))fail('Invalid or duplicate ticker');
+ if(!/^[0-9][0-9ACDFGHJKLMNPRSTUWXY][0-9][0-9ACDFGHJKLMNPRSTUWXY]$/.test(r.ticker)||seen.has(r.ticker))fail('Invalid or duplicate ticker');
  seen.add(r.ticker);
  if(typeof r.annualDividendPerShare!=='number'||!Number.isFinite(r.annualDividendPerShare)||r.annualDividendPerShare<0||r.annualDividendPerShare>=1000000)fail('Invalid dividend');
  if(typeof r.fiscalYear!=='string'||!r.fiscalYear)fail('Invalid dates');
