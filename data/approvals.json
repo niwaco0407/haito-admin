@@ -6784,8 +6784,8 @@
   },
   {
     "ticker": "7523",
-    "annualDividendPerShare": 30,
-    "fiscalYear": "決算期未確認（2026年6月参考）",
+    "annualDividendPerShare": 0,
+    "fiscalYear": "2027年3月期",
     "reviewedAt": "2026-10-12",
     "status": "approved"
   },
