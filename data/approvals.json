@@ -1,8 +1,8 @@
 [
   {
     "ticker": "9861",
-    "annualDividendPerShare": 24,
-    "fiscalYear": "2027年2月期",
+    "annualDividendPerShare": 22,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
     "reviewedAt": "2026-10-12",
     "status": "approved"
   },
@@ -22221,6 +22221,90 @@
     "ticker": "9984",
     "annualDividendPerShare": 11,
     "fiscalYear": "決算期未確認（2026年10月2日参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "2180",
+    "annualDividendPerShare": 26,
+    "fiscalYear": "決算期未確認（2026-06-26参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "2415",
+    "annualDividendPerShare": 136,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "3393",
+    "annualDividendPerShare": 312,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "3696",
+    "annualDividendPerShare": 180,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "548A",
+    "annualDividendPerShare": 88.96,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "5845",
+    "annualDividendPerShare": 108,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "6197",
+    "annualDividendPerShare": 22,
+    "fiscalYear": "決算期未確認（2026-06-28参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "7317",
+    "annualDividendPerShare": 10,
+    "fiscalYear": "決算期未確認（2026-06-28参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "7421",
+    "annualDividendPerShare": 5,
+    "fiscalYear": "決算期未確認（2026-06-28参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "8289",
+    "annualDividendPerShare": 20,
+    "fiscalYear": "決算期未確認（2026-06-28参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "8747",
+    "annualDividendPerShare": 210,
+    "fiscalYear": "決算期未確認（2026-10-02参考）",
+    "reviewedAt": "2026-10-12",
+    "status": "approved"
+  },
+  {
+    "ticker": "8918",
+    "annualDividendPerShare": 0.1,
+    "fiscalYear": "決算期未確認（2026-06-28参考）",
     "reviewedAt": "2026-10-12",
     "status": "approved"
   }
