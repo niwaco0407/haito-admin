@@ -5,8 +5,8 @@
     {
       "ticker": "9861",
       "name": "吉野家ホールディングス",
-      "annualDividendPerShare": 24,
-      "fiscalYear": "2027年2月期"
+      "annualDividendPerShare": 22,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
     },
     {
       "ticker": "7203",
@@ -19051,6 +19051,78 @@
       "name": "ソフトバンクグループ",
       "annualDividendPerShare": 11,
       "fiscalYear": "決算期未確認（2026年10月2日参考）"
+    },
+    {
+      "ticker": "2180",
+      "name": "サニーサイドアップグループ",
+      "annualDividendPerShare": 26,
+      "fiscalYear": "決算期未確認（2026-06-26参考）"
+    },
+    {
+      "ticker": "2415",
+      "name": "ヒューマンホールディングス",
+      "annualDividendPerShare": 136,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "3393",
+      "name": "スターティアホールディングス",
+      "annualDividendPerShare": 312,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "3696",
+      "name": "セレス",
+      "annualDividendPerShare": 180,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "548A",
+      "name": "システムエグゼ",
+      "annualDividendPerShare": 88.96,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "5845",
+      "name": "全保連",
+      "annualDividendPerShare": 108,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "6197",
+      "name": "ソラスト",
+      "annualDividendPerShare": 22,
+      "fiscalYear": "決算期未確認（2026-06-28参考）"
+    },
+    {
+      "ticker": "7317",
+      "name": "松屋アールアンドディ",
+      "annualDividendPerShare": 10,
+      "fiscalYear": "決算期未確認（2026-06-28参考）"
+    },
+    {
+      "ticker": "7421",
+      "name": "カッパ・クリエイト",
+      "annualDividendPerShare": 5,
+      "fiscalYear": "決算期未確認（2026-06-28参考）"
+    },
+    {
+      "ticker": "8289",
+      "name": "Ｏｌｙｍｐｉｃグループ",
+      "annualDividendPerShare": 20,
+      "fiscalYear": "決算期未確認（2026-06-28参考）"
+    },
+    {
+      "ticker": "8747",
+      "name": "豊トラスティ証券",
+      "annualDividendPerShare": 210,
+      "fiscalYear": "決算期未確認（2026-10-02参考）"
+    },
+    {
+      "ticker": "8918",
+      "name": "ランド",
+      "annualDividendPerShare": 0.1,
+      "fiscalYear": "決算期未確認（2026-06-28参考）"
     }
   ]
 }
