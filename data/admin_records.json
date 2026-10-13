@@ -1,13 +1,6 @@
 {
   "records": [
     {
-      "ticker": "9861",
-      "name": "吉野家ホールディングス",
-      "annualDividendPerShare": 22,
-      "fiscalYear": "決算期未確認（2026-10-02参考）",
-      "status": "approved"
-    },
-    {
       "ticker": "7203",
       "name": "トヨタ自動車",
       "annualDividendPerShare": 100,
@@ -26941,6 +26934,13 @@
       "name": "ＫＯＺＯホールディングス",
       "annualDividendPerShare": 0,
       "fiscalYear": "決算期未確認（配当未確認・暫定0円）",
+      "status": "approved"
+    },
+    {
+      "ticker": "9861",
+      "name": "吉野家ホールディングス",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "決算期未確認（2026-10-02参考）",
       "status": "approved"
     }
   ]
