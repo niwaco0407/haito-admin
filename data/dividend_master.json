@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-13",
+  "publishedAt": "2026-10-17",
   "records": [
     {
       "ticker": "7203",
@@ -1805,7 +1805,7 @@
     {
       "ticker": "5527",
       "name": "property technologies",
-      "annualDividendPerShare": 25,
+      "annualDividendPerShare": 32,
       "fiscalYear": "2026年11月期"
     },
     {
@@ -4907,8 +4907,8 @@
     {
       "ticker": "3560",
       "name": "ほぼ日",
-      "annualDividendPerShare": 90,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 100,
+      "fiscalYear": "2026年8月期"
     },
     {
       "ticker": "3583",
@@ -5171,8 +5171,8 @@
     {
       "ticker": "4616",
       "name": "川上塗料",
-      "annualDividendPerShare": 45,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 150,
+      "fiscalYear": "2026年11月期"
     },
     {
       "ticker": "4627",
@@ -5915,8 +5915,8 @@
     {
       "ticker": "7937",
       "name": "ツツミ",
-      "annualDividendPerShare": 115,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 120,
+      "fiscalYear": "2027年3月期"
     },
     {
       "ticker": "7955",
@@ -6010,9 +6010,9 @@
     },
     {
       "ticker": "8233",
-      "name": "高島屋",
-      "annualDividendPerShare": 40,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "name": "髙島屋",
+      "annualDividendPerShare": 44,
+      "fiscalYear": "2027年2月期"
     },
     {
       "ticker": "8273",
@@ -8513,8 +8513,8 @@
     {
       "ticker": "369A",
       "name": "エータイ",
-      "annualDividendPerShare": 54,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 67,
+      "fiscalYear": "2026年8月期"
     },
     {
       "ticker": "3763",
@@ -12137,8 +12137,8 @@
     {
       "ticker": "3678",
       "name": "メディアドゥ",
-      "annualDividendPerShare": 40,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 55,
+      "fiscalYear": "2027年2月期"
     },
     {
       "ticker": "3727",
@@ -12514,9 +12514,9 @@
     },
     {
       "ticker": "5018",
-      "name": "ＭＯＲＥＳＣＯ",
-      "annualDividendPerShare": 55,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "name": "MORESCO",
+      "annualDividendPerShare": 95,
+      "fiscalYear": "2027年2月期"
     },
     {
       "ticker": "505A",
@@ -14411,8 +14411,8 @@
     {
       "ticker": "5885",
       "name": "ジーデップ・アドバンス",
-      "annualDividendPerShare": 29,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 48,
+      "fiscalYear": "2027年5月期"
     },
     {
       "ticker": "5905",
@@ -16012,9 +16012,9 @@
     },
     {
       "ticker": "3922",
-      "name": "ＰＲ ＴＩＭＥＳ",
-      "annualDividendPerShare": 16.8,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "name": "PR TIMES",
+      "annualDividendPerShare": 74.3,
+      "fiscalYear": "2027年2月期"
     },
     {
       "ticker": "3931",
@@ -16997,8 +16997,8 @@
     {
       "ticker": "7219",
       "name": "エッチ・ケー・エス",
-      "annualDividendPerShare": 65,
-      "fiscalYear": "決算期未確認（2026年6月参考）"
+      "annualDividendPerShare": 107,
+      "fiscalYear": "2026年8月期"
     },
     {
       "ticker": "7271",
@@ -21881,8 +21881,8 @@
     {
       "ticker": "3479",
       "name": "ティーケーピー",
-      "annualDividendPerShare": 0,
-      "fiscalYear": "決算期未確認（配当未確認・暫定0円）"
+      "annualDividendPerShare": 30,
+      "fiscalYear": "2027年2月期"
     },
     {
       "ticker": "3556",
