@@ -1,0 +1,22 @@
+name: Validate HAITO ADMIN payment dates
+on:
+  push:
+    paths:
+      - 'worker/index.js'
+      - 'scripts/test-admin-payment-dates.mjs'
+      - '.github/workflows/admin-payment-dates.yml'
+  pull_request:
+    paths:
+      - 'worker/index.js'
+      - 'scripts/test-admin-payment-dates.mjs'
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/test-admin-payment-dates.mjs
