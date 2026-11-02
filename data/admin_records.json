@@ -66,8 +66,16 @@
     {
       "ticker": "6762",
       "name": "TDK",
-      "annualDividendPerShare": 40,
+      "annualDividendPerShare": 50,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-02",
+          "sourceURL": "https://www.tdk.com/ja/news_center/press/20261030_10.html",
+          "dividendPerShare": 25
+        }
+      ],
       "status": "approved"
     },
     {
@@ -185,8 +193,16 @@
     {
       "ticker": "8053",
       "name": "住友商事",
-      "annualDividendPerShare": 40,
+      "annualDividendPerShare": 44,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-01",
+          "sourceURL": "https://www.sumitomocorp.com/-/media/Files/hq/news/release/2026/21790/21790_ja.pdf",
+          "dividendPerShare": 22
+        }
+      ],
       "status": "approved"
     },
     {
@@ -892,8 +908,9 @@
     {
       "ticker": "6752",
       "name": "パナソニック ホールディングス",
-      "annualDividendPerShare": 54,
+      "annualDividendPerShare": 70,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -920,8 +937,16 @@
     {
       "ticker": "6988",
       "name": "日東電工",
-      "annualDividendPerShare": 64,
+      "annualDividendPerShare": 72,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-11-27",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261015551840.pdf",
+          "dividendPerShare": 36
+        }
+      ],
       "status": "approved"
     },
     {
@@ -934,8 +959,9 @@
     {
       "ticker": "5802",
       "name": "住友電気工業",
-      "annualDividendPerShare": 39,
+      "annualDividendPerShare": 44,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -1018,8 +1044,16 @@
     {
       "ticker": "4661",
       "name": "オリエンタルランド",
-      "annualDividendPerShare": 16,
+      "annualDividendPerShare": 18,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-09",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261029559041.pdf",
+          "dividendPerShare": 9
+        }
+      ],
       "status": "approved"
     },
     {
@@ -2719,8 +2753,16 @@
     {
       "ticker": "5333",
       "name": "NGK",
-      "annualDividendPerShare": 106,
+      "annualDividendPerShare": 126,
       "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-02",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261029559949.pdf",
+          "dividendPerShare": 63
+        }
+      ],
       "status": "approved"
     },
     {
@@ -6478,8 +6520,9 @@
     {
       "ticker": "6445",
       "name": "ジャノメ",
-      "annualDividendPerShare": 60,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "annualDividendPerShare": 75,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -11777,8 +11820,9 @@
     {
       "ticker": "2533",
       "name": "オエノンホールディングス",
-      "annualDividendPerShare": 12,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "annualDividendPerShare": 15,
+      "fiscalYear": "2026年12月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -13414,9 +13458,17 @@
     },
     {
       "ticker": "8473",
-      "name": "ＳＢＩホールディングス",
-      "annualDividendPerShare": 95,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "name": "SBIホールディングス",
+      "annualDividendPerShare": 110,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-14",
+          "sourceURL": "https://www.sbigroup.co.jp/news/2026/1102_16702.html",
+          "dividendPerShare": 30
+        }
+      ],
       "status": "approved"
     },
     {
@@ -15844,8 +15896,16 @@
     {
       "ticker": "1959",
       "name": "クラフティア",
-      "annualDividendPerShare": 220,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "annualDividendPerShare": 240,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-01",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261029559367.pdf",
+          "dividendPerShare": 120
+        }
+      ],
       "status": "approved"
     },
     {
@@ -18791,8 +18851,16 @@
     {
       "ticker": "4234",
       "name": "サンエー化研",
-      "annualDividendPerShare": 18,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "annualDividendPerShare": 24,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [
+        {
+          "kind": "interim",
+          "date": "2026-12-04",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261028557442.pdf",
+          "dividendPerShare": 12
+        }
+      ],
       "status": "approved"
     },
     {
@@ -19491,8 +19559,9 @@
     {
       "ticker": "6454",
       "name": "マックス",
-      "annualDividendPerShare": 40,
-      "fiscalYear": "決算期未確認（2026年6月参考）",
+      "annualDividendPerShare": 43,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -25882,8 +25951,9 @@
     {
       "ticker": "4506",
       "name": "住友ファーマ",
-      "annualDividendPerShare": 0,
-      "fiscalYear": "決算期未確認（配当未確認・暫定0円）",
+      "annualDividendPerShare": 15,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
@@ -26434,9 +26504,10 @@
     },
     {
       "ticker": "6557",
-      "name": "ＡＩＡＩグループ",
-      "annualDividendPerShare": 0,
-      "fiscalYear": "決算期未確認（配当未確認・暫定0円）",
+      "name": "AIAIグループ",
+      "annualDividendPerShare": 15,
+      "fiscalYear": "2027年3月期",
+      "paymentStartDates": [],
       "status": "approved"
     },
     {
